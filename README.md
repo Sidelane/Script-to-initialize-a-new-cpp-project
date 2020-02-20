@@ -1,1 +1,1 @@
-# Script-to-initialize-a-new-cpp-project
+# Fish function to create a new cpp project
