@@ -1,9 +1,16 @@
-build
+# vscode Files
+.vscode
+.vscode/*
 
+# Folders for compiling/compiled Files
+build
+build/*
 lib/*
 bin/*
-build/*
+
+# Compiled Files
+*.o
+*.d
+runner
 
 .DS_Store
-
-runner
