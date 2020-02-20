@@ -2,5 +2,8 @@ build
 
 lib/*
 bin/*
+build/*
 
 .DS_Store
+
+runner
